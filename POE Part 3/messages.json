@@ -1,0 +1,74 @@
+{
+    "messageHashes": [
+        null,
+        "MS:2:HELLO?",
+        "MS:3:HELLO?",
+        "MS:4:HEY?",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "recipients": [
+        "+27674895467",
+        "+718792259",
+        "+27658636521",
+        "+27764824467",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "disregardedMessages": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "messageIDs": [
+        "MSG1Q",
+        "MSG2I",
+        "MSG3J",
+        "MSG4Q",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "sentMessages": [
+        null,
+        "Hello ma, how are you doing ?",
+        "Hello dad, are you good ? ",
+        "hey buddy, how was school ?",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "storedMessages": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ]
+}
